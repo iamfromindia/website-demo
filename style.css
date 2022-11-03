@@ -1,0 +1,50 @@
+h1{
+    color: red;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 30rem;
+}
+
+nav{
+    width: 20rem;
+    justify-content: space-evenly;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+    font-size: 1.5rem;
+}
+a{
+    text-decoration: black;
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+.showcase img{
+    width: 100vw;
+    margin: 30rem;
+}
+article{
+    display: flex;
+    margin: 9   .5rem;
+}
+.content{
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 1.5rem;
+}
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 4rem;
+    align-items: center;
+    font-size: 1.5rem;
+}
